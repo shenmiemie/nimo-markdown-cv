@@ -1,4 +1,9 @@
 ---
+layout: cv
+title: Nimo's CV
+pdf: true
+---
+
 # <center><font size="14" face="">沈届时</font></center>
 
 <div id="webaddress">
